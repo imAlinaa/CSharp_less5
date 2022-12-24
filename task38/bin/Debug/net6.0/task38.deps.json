@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "less5/1.0.0": {
+      "task38/1.0.0": {
         "runtime": {
-          "less5.dll": {}
+          "task38.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "less5/1.0.0": {
+    "task38/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

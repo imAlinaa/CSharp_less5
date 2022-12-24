@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alina/Рабочий стол/C#/less5/less5.csproj": {}
+    "/home/alina/Рабочий стол/C#/less5/task38/task38.csproj": {}
   },
   "projects": {
-    "/home/alina/Рабочий стол/C#/less5/less5.csproj": {
+    "/home/alina/Рабочий стол/C#/less5/task38/task38.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alina/Рабочий стол/C#/less5/less5.csproj",
-        "projectName": "less5",
-        "projectPath": "/home/alina/Рабочий стол/C#/less5/less5.csproj",
+        "projectUniqueName": "/home/alina/Рабочий стол/C#/less5/task38/task38.csproj",
+        "projectName": "task38",
+        "projectPath": "/home/alina/Рабочий стол/C#/less5/task38/task38.csproj",
         "packagesPath": "/home/alina/.nuget/packages/",
-        "outputPath": "/home/alina/Рабочий стол/C#/less5/obj/",
+        "outputPath": "/home/alina/Рабочий стол/C#/less5/task38/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alina/.nuget/NuGet/NuGet.Config"
